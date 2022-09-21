@@ -1,0 +1,7 @@
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\bin\Debug\AgungSetiawan_FinalExam_Payroll.exe.config
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\bin\Debug\AgungSetiawan_FinalExam_Payroll.exe
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\bin\Debug\AgungSetiawan_FinalExam_Payroll.pdb
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\obj\Debug\AgungSetiawan_FinalExam_Payroll.csproj.AssemblyReference.cache
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\obj\Debug\AgungSetiawan_FinalExam_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\obj\Debug\AgungSetiawan_FinalExam_Payroll.exe
+C:\Users\1573\source\repos\AgungSetiawan_FinalExam_Payroll\AgungSetiawan_FinalExam_Payroll\obj\Debug\AgungSetiawan_FinalExam_Payroll.pdb
